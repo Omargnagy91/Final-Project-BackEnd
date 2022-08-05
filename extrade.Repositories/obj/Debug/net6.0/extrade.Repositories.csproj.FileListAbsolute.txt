@@ -1,0 +1,114 @@
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.Repositories.deps.json
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.Repositories.runtimeconfig.json
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.Repositories.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.Repositories.pdb
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\extrade.Repositories.csproj.AssemblyReference.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\extrade.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\extrade.Repositories.AssemblyInfoInputs.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\extrade.Repositories.AssemblyInfo.cs
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\extrade.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\extrade.Repositories.csproj.CopyComplete
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\extrade.Repositories.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\refint\extrade.Repositories.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\extrade.Repositories.pdb
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\extrade.Repositories.genruntimeconfig.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\ref\extrade.Repositories.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.pdb
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.deps.json
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.runtimeconfig.json
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.dll
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.pdb
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.dll
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.dll
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.pdb
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.pdb
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.AssemblyReference.cache
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.AssemblyInfoInputs.cache
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.AssemblyInfo.cs
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.CoreCompileInputs.cache
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.CopyComplete
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.dll
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\refint\Extrade.Repositories.dll
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.pdb
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.genruntimeconfig.cache
+D:\Extrade.Model-main\final model database\extrade.models\extrade.Repositories\obj\Debug\net6.0\ref\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.deps.json
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.runtimeconfig.json
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.AssemblyInfo.cs
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.CopyComplete
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\obj\Debug\net6.0\refint\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.genruntimeconfig.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\extrade.Repositories\obj\Debug\net6.0\ref\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.deps.json
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.runtimeconfig.json
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.AssemblyInfo.cs
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.CopyComplete
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\refint\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.genruntimeconfig.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\ref\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.deps.json
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.runtimeconfig.json
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.AssemblyInfo.cs
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.CopyComplete
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\refint\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.genruntimeconfig.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\ref\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.deps.json
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.runtimeconfig.json
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.AssemblyInfo.cs
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.csproj.CopyComplete
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\refint\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\Extrade.Repositories.genruntimeconfig.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\extrade.Repositories\obj\Debug\net6.0\ref\Extrade.Repositories.dll

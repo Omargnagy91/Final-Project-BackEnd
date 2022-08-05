@@ -1,0 +1,97 @@
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.deps.json
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.AssemblyReference.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfoInputs.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfo.cs
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\refint\Extrade.ViewModels.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\ref\Extrade.ViewModels.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.deps.json
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.runtimeconfig.json
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.pdb
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\extrade.models.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\extrade.models.pdb
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.AssemblyReference.cache
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfoInputs.cache
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfo.cs
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.CoreCompileInputs.cache
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.CopyComplete
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\refint\Extrade.ViewModels.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.pdb
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.genruntimeconfig.cache
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\ref\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.deps.json
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.runtimeconfig.json
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfo.cs
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.CopyComplete
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\refint\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.genruntimeconfig.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\ref\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.deps.json
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.runtimeconfig.json
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfo.cs
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.CopyComplete
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\refint\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.genruntimeconfig.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\ref\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.deps.json
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.runtimeconfig.json
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfo.cs
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.CopyComplete
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\refint\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.genruntimeconfig.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\ref\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.deps.json
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.runtimeconfig.json
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.AssemblyInfo.cs
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.csproj.CopyComplete
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\refint\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\Extrade.ViewModels.genruntimeconfig.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.ViewModels\obj\Debug\net6.0\ref\Extrade.ViewModels.dll

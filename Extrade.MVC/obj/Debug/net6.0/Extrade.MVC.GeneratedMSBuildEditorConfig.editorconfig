@@ -1,0 +1,220 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Extrade.MVC
+build_property.RootNamespace = Extrade.MVC
+build_property.ProjectDir = D:\Final-Back\Extrade.MVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Final-Back\Extrade.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Final-Back/Extrade.MVC/Views/Category/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Category/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Collection/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Collection/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Collection/MarkterAddPro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxNYXJrdGVyQWRkUHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Collection/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Marketer/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0ZXJcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Marketer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0ZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Marketer/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0ZXJcR2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Marketer/GetOne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0ZXJcR2V0T25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Marketer/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2V0ZXJcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Order/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Order/GetAllOrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0QWxsT3JkZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Order/GetOrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0T3JkZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Product/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Product/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Product/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Product/VendorAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxWZW5kb3JBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Product/VendorGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxWZW5kb3JHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Role/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Role/AddRoleToUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGRSb2xlVG9Vc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Shared/_VendorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WZW5kb3JMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Shared/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/UseAsMarketer/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlQXNNYXJrZXRlclxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/UseAsMarketer/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlQXNNYXJrZXRlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/UseAsMarketer/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlQXNNYXJrZXRlclxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/UseAsVendor/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlQXNWZW5kb3JcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/UseAsVendor/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlQXNWZW5kb3JcZWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/UseAsVendor/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlQXNWZW5kb3JcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/UseAsVendor/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlQXNWZW5kb3JcU2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclw1MDAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/AllUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBbGxVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/AllUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBbGxVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxjaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/layout-sidenav-light.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxsYXlvdXQtc2lkZW5hdi1saWdodC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/layout-static.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxsYXlvdXQtc3RhdGljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxwYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/User/UpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVcGRhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Vendor/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Vendor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Vendor/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXEdldExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Vendor/GetOne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXEdldE9uZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Final-Back/Extrade.MVC/Views/Vendor/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

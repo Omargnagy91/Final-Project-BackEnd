@@ -1,0 +1,535 @@
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.exe
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.deps.json
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.runtimeconfig.json
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.pdb
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.Core.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.AssemblyReference.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfoInputs.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfo.cs
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CoreCompileInputs.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cs
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\scopedcss\bundle\Extrade.MVC.styles.css
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CopyComplete
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\refint\Extrade.MVC.dll
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.pdb
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.genruntimeconfig.cache
+C:\Users\JavaTech\Downloads\Compressed\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\ref\Extrade.MVC.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.AssemblyReference.cache
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfoInputs.cache
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfo.cs
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CoreCompileInputs.cache
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cache
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cs
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\appsettings.json
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.exe
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.deps.json
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.runtimeconfig.json
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.pdb
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Castle.Core.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Humanizer.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\JetBrains.Annotations.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.Core.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.CodeDom.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\X.PagedList.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.pdb
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.pdb
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.pdb
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\scopedcss\bundle\Extrade.MVC.styles.css
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CopyComplete
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\refint\Extrade.MVC.dll
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.pdb
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.genruntimeconfig.cache
+D:\Extrade.Model-main\final model database\extrade.models\Extrade.MVC\obj\Debug\net6.0\ref\Extrade.MVC.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfo.cs
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.exe
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.deps.json
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.runtimeconfig.json
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.Core.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\X.PagedList.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cs
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\scopedcss\bundle\Extrade.MVC.styles.css
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CopyComplete
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\refint\Extrade.MVC.dll
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.pdb
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.genruntimeconfig.cache
+C:\Users\Walid\Desktop\Final Version\extrade.models\Extrade.MVC\obj\Debug\net6.0\ref\Extrade.MVC.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.exe
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.deps.json
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.runtimeconfig.json
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.Core.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\X.PagedList.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfo.cs
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cs
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\scopedcss\bundle\Extrade.MVC.styles.css
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CopyComplete
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\refint\Extrade.MVC.dll
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.pdb
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.genruntimeconfig.cache
+C:\Users\Walid\Desktop\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\ref\Extrade.MVC.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfo.cs
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cs
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\refint\Extrade.MVC.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.exe
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.deps.json
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.runtimeconfig.json
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.Core.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\X.PagedList.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\scopedcss\bundle\Extrade.MVC.styles.css
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CopyComplete
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.genruntimeconfig.cache
+C:\Users\Walid\Desktop\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\ref\Extrade.MVC.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.exe
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.deps.json
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.runtimeconfig.json
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.MVC.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\LinqKit.Core.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\X.PagedList.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.Repositories.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\Extrade.ViewModels.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\bin\Debug\net6.0\extrade.models.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.AssemblyInfo.cs
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.RazorAssemblyInfo.cs
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\scopedcss\bundle\Extrade.MVC.styles.css
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.csproj.CopyComplete
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\refint\Extrade.MVC.dll
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.pdb
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\Extrade.MVC.genruntimeconfig.cache
+C:\Users\Walid\Desktop\final version of project\jj\Final Version - Copy\extrade.models\Extrade.MVC\obj\Debug\net6.0\ref\Extrade.MVC.dll
